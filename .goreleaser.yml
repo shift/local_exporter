@@ -97,12 +97,6 @@ docker_manifests:
       - ghcr.io/shift/local_exporter:v{{ .Version }}-amd64
       - ghcr.io/shift/local_exporter:v{{ .Version }}-arm64
       - ghcr.io/shift/local_exporter:v{{ .Version }}-arm32v7
-signs:
-  - cmd: cosign
-    stdin: "{{ .Env.COSIGN_PASSWORD }}"
-    args:
-      ["sign-blob", "--key=cosign.key", "--output=${signature}", "${artifact}"]
-    artifacts: all
 docker_signs:
   - artifacts: all
     stdin: "{{ .Env.COSIGN_PASSWORD }}"
