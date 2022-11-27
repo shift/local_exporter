@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.12](https://github.com/shift/local_exporter/compare/v0.0.11...v0.0.12) (2022-11-27)
+
+
+### Bug Fixes
+
+* **ci:** go builder needed the branch updating :D ([63d2092](https://github.com/shift/local_exporter/commit/63d20928cbea3e0c7ba93367c464ecdf9cb543fd))
+* hopefully gets it running on tags again :/ ([b6c61bd](https://github.com/shift/local_exporter/commit/b6c61bd885d995a9d2197157628d9d55c297edfe))
+
 ## [0.0.11](https://github.com/shift/local_exporter/compare/v0.0.10...v0.0.11) (2022-11-27)
 
 
