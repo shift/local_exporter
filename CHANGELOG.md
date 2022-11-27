@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.0.13](https://github.com/shift/local_exporter/compare/v0.0.12...v0.0.13) (2022-11-27)
+
+
+### Bug Fixes
+
+* **release-please:** ARRRG! ([7f509c2](https://github.com/shift/local_exporter/commit/7f509c29093dc594a0ce284166eb1b997964e7b4))
+* **release-please:** ARRRG! v2 ([ddef925](https://github.com/shift/local_exporter/commit/ddef9255cf24dbd27a10b742aed53ed29460ffc9))
+* **release-please:** ARRRG! v3 ([eeb0c54](https://github.com/shift/local_exporter/commit/eeb0c54a863c6f26a3d27468754b225593d444fd))
+* **release:** Hopefully fixes the deliverables. ([45953fd](https://github.com/shift/local_exporter/commit/45953fd6418662bf102f053b274a90f17937a02f))
+
 ## [0.0.12](https://github.com/shift/local_exporter/compare/v0.0.11...v0.0.12) (2022-11-27)
 
 
