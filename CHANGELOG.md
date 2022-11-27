@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.17](https://github.com/shift/local_exporter/compare/v0.0.16...v0.0.17) (2022-11-27)
+
+
+### Bug Fixes
+
+* **release:** Should fix it, maybe.. ([56bab7b](https://github.com/shift/local_exporter/commit/56bab7bbf8fd2bfc03290a7678eeee64e64281c9))
+
 ## [0.0.16](https://github.com/shift/local_exporter/compare/v0.0.15...v0.0.16) (2022-11-27)
 
 
