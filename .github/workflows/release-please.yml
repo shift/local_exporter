@@ -12,4 +12,4 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          token: {{ secret.ARGGG_TOKEN }}
+          token: ${{ secret.ARGGG_TOKEN }}
