@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.18](https://github.com/shift/local_exporter/compare/v0.0.17...v0.0.18) (2023-04-14)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/spf13/cobra to v1.7.0 ([d0334db](https://github.com/shift/local_exporter/commit/d0334db077ea7728a4b81d215e51060df0c97cb7))
+
 ## [0.0.17](https://github.com/shift/local_exporter/compare/v0.0.16...v0.0.17) (2022-11-27)
 
 
